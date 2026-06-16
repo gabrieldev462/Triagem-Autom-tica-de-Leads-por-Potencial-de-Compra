@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Larissa Mendes Silva",
+    "title": "Gerente de Vendas",
+    "company_size": "101-500",
+    "challenge": "Quero melhorar a eficiência da minha equipe de vendas e identificar os leads mais promissores.",
+    "prioridade": "Média",
+    "pain_point": "Melhorar eficiência da equipe e qualificar leads",
+    "reason": "Gerente de vendas em empresa de médio porte, desafio relevante mas não crítico imediato"
+  },
+  {
+    "name": "Ana Carolina Rodrigues",
+    "title": "Coordenadora de Vendas",
+    "company_size": "101-500",
+    "challenge": "Preciso de uma maneira eficiente de priorizar meus leads para aumentar as taxas de conversão.",
+    "prioridade": "Média",
+    "pain_point": "Preciso de uma maneira eficiente de priorizar meus leads para aumentar as taxas de conversão.",
+    "reason": "Coordenadora de vendas em empresa de 101-500 pessoas, desafio importante mas não crítico imediato."
+  },
+  {
+    "name": "Pedro Henrique Costa",
+    "title": "Analista de Marketing",
+    "company_size": "Mais de 500",
+    "challenge": "Tive dificuldade em segmentar meus leads de forma eficaz para campanhas direcionadas.",
+    "prioridade": "Média",
+    "pain_point": "Dificuldade em segmentar leads para campanhas direcionadas",
+    "reason": "Analista de marketing em empresa grande, desafio relevante, mas não decisor final, prioridade média"
+  },
+  {
+    "name": "Julia Santos Alves",
+    "title": "Gerente de Marketing Digital",
+    "company_size": "51-100",
+    "challenge": "Tenho dificuldade em analisar grandes volumes de leads e identificar os mais relevantes para minhas campanhas.",
+    "prioridade": "Média",
+    "pain_point": "Analisar grandes volumes de leads e identificar os mais relevantes para campanhas",
+    "reason": "Cargo de marketing em empresa de médio porte, desafio de qualificação de leads que afeta performance das campanhas, mas não indica urgência extrema"
+  },
+  {
+    "name": "Gustavo Lima Ferreira",
+    "title": "Coordenador de Vendas",
+    "company_size": "101-500",
+    "challenge": "Quero otimizar meu funil de vendas",
+    "null": [
+      " mas não sei como priorizar meus leads de forma eficaz."
+    ],
+    "prioridade": "Média",
+    "pain_point": "Otimizar funil de vendas",
+    "reason": "Cargo de coordenador, empresa de médio porte, desafio de melhoria de processo, prioridade média."
+  }
+]
