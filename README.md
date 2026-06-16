@@ -1,0 +1,2 @@
+# Triagem-Autom-tica-de-Leads-por-Potencial-de-Compra
+**Smart Lead Triage** 🚀🤖  Automação inteligente que ingere dados brutos de formulários de marketing e utiliza a API de LLM para analisar o perfil do lead (cargo e dor) em tempo real. O sistema categoriza e prioriza os contatos automaticamente, otimizando o tempo do time comercial e aumentando as conversões de vendas.   Fullstack | IA | Python/JS
