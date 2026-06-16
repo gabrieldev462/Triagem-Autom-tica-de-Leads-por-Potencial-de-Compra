@@ -1,3 +1,6 @@
 openai
 python-dotenv
 requests
+pytest
+prometheus_client
+python-json-logger
