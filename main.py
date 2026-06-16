@@ -27,8 +27,11 @@ load_dotenv()
 
 # Config
 API_KEY = os.getenv("API_KEY")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 PROVIDER = os.getenv("PROVIDER", "openai").lower()
+if PROVIDER == "grok":
+    OPENAI_MODEL = os.getenv("OPENAI_MODEL", "openai/gpt-oss-20b")
+else:
+    OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 GROK_API_KEY = os.getenv("GROK_API_KEY")
 GROK_API_URL = os.getenv("GROK_API_URL", "https://api.groq.com/openai/v1/chat/completions")
 
